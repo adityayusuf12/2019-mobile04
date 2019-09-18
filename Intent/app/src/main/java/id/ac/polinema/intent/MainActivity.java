@@ -20,4 +20,8 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
+    public void handleExit(View view) {
+        finish();
+    }
 }
